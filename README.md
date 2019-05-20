@@ -5,8 +5,14 @@ REACT를 이용하여 CRUD를 구현하였습니다. 본 소스코드는 프로�
 
 구동방법 1
 .해당 주소의 레포지터리를 CLONE 하시오 
+
+
 2.npm install 
+
 3.npm install bootstrap
+
+4.npm install react react-dom
+
 4.npm start 
 5.http://localhost:3000/ 
 5번의 주소에서 기능을 사용해 보실 수 있습니다.
